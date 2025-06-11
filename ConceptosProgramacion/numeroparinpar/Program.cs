@@ -3,7 +3,7 @@
     Console.Write("ingrese un numero:");
     var numero = int.Parse(Console.ReadLine());
 
-    if (numero % 2 == 0)
+    if (numero % 3 == 0)
     {
         Console.WriteLine("Es Par");
     }
