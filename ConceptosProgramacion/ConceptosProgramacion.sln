@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36202.13 d17.14
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numeroparinpar", "numeroparinpar\numeroparinpar.csproj", "{F2A45A1E-3D27-4292-BA97-7528E38FDC8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "numero mayor", "numero mayor\numero mayor.csproj", "{75891D5F-03C5-4C9B-B7C4-6D8D2AA064C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cualesel Mayor", "Cualesel Mayor\Cualesel Mayor.csproj", "{F372901F-54A4-493E-B7EE-FC5ACBEA411B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "muktiplos", "muktiplos\muktiplos.csproj", "{4EA98F0C-7919-45E5-8A22-04D1E4A9676F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{F2A45A1E-3D27-4292-BA97-7528E38FDC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2A45A1E-3D27-4292-BA97-7528E38FDC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2A45A1E-3D27-4292-BA97-7528E38FDC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75891D5F-03C5-4C9B-B7C4-6D8D2AA064C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75891D5F-03C5-4C9B-B7C4-6D8D2AA064C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75891D5F-03C5-4C9B-B7C4-6D8D2AA064C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75891D5F-03C5-4C9B-B7C4-6D8D2AA064C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F372901F-54A4-493E-B7EE-FC5ACBEA411B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F372901F-54A4-493E-B7EE-FC5ACBEA411B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F372901F-54A4-493E-B7EE-FC5ACBEA411B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F372901F-54A4-493E-B7EE-FC5ACBEA411B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA98F0C-7919-45E5-8A22-04D1E4A9676F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA98F0C-7919-45E5-8A22-04D1E4A9676F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA98F0C-7919-45E5-8A22-04D1E4A9676F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA98F0C-7919-45E5-8A22-04D1E4A9676F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
