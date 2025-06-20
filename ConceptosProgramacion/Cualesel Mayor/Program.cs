@@ -8,7 +8,7 @@ do
  Console.Write("ingrese tercer numero");
  var n3 = int.Parse(Console.ReadLine());
 
-    if (n1 > n2 & n2 > n3)
+    if (n1 > n2 & n2  > n3)
     {
         Console.WriteLine($"el numero mayor es: {n1}");
         Console.WriteLine($"el numero del medio es: {n2}");

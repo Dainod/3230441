@@ -4,9 +4,11 @@ Console.WriteLine("ingrese primer numero:");
 var n1 = (Console.ReadLine());
 
     if (int.TryParse(n1, out int n1int))
+     
     {
         Console.WriteLine("ingrese segundo numero:");
         var n2 = (Console.ReadLine());
+       
         if (int.TryParse(n2, out int n2int))
         {
             if (n1int % n2int == 0)
